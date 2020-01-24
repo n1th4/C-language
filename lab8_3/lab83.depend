@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506677844 source:c:\users\toshiba\desktop\lab322114\lab83\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

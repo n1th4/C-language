@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505752478 source:c:\users\toshiba\desktop\lab322114\โปรแกรมโยนเหรียญ\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

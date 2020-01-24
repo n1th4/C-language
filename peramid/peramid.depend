@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510592336 source:c:\users\toshiba\desktop\lab322114\peramid\main.c
+	<stdio.h>
+	<stdlib.h>
+
