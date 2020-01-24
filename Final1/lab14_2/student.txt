@@ -1,3 +1,0 @@
-600001	Albert Einstein	100
-600002	SirIsaac Newton	99
-600003	Michael Faraday	79
